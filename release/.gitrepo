@@ -6,7 +6,7 @@
 [subrepo]
 	remote = https://github.com/pmalacho-mit/wsfs_pytutor_suede
 	branch = release
-	commit = bd7e49f1ac394653ff8e5a8cb852ed316b020cba
-	parent = cb4eaa3f06295cf8e98845a7dccf5803e351d0a6
+	commit = b6d5bad939ce4c499e182d6469e32803b2f2ace3
+	parent = 320dfd157cf883cd2873dba9999cb9e830fe8c8d
 	method = merge
 	cmdver = 0.4.9
